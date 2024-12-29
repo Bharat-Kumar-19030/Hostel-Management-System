@@ -1,0 +1,10 @@
+regno,name,age,course,paidfee,totalfee,roomtype,ischeckin,messopted,laundryopted,gymopted,feecleared,remainingamount
+1,Abhay Singh,20,B.tech,120000,85000,0,1,0,1,0,1,-35000
+2,Harish Kumar,23,design,128000,123000,0,1,1,0,1,1,-5000
+3,Bharat Kumar,20,btech,150000,138000,1,1,1,1,1,1,-12000
+4,Aditya kumar,25,physical,100000,138000,1,0,1,1,1,0,38000
+5,Abhinav saini,15,bba,90000,128000,0,0,1,1,1,0,38000
+11,kumar Hira,25,parmacy,137050,138000,1,1,1,1,1,0,950
+10,Karim,15,bba,156000,125000,1,0,1,0,0,1,-31000
+50,suresh pal,30,mba,130000,103000,1,1,0,1,1,1,-27000
+21,abcd,20,btech,100000,80000,0,0,0,0,0,1,-20000
